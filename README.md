@@ -1,7 +1,7 @@
 
 EX-1 Developing a Simple Webserver
 
-Date:
+Date: 
 
 AIM:
 
@@ -42,6 +42,7 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 PROGRAM:
 
 OUTPUT:
+<img width="1920" height="1078" alt="TCP_IP Protocol Suite - Google Chrome 24-11-2026 09_41_19" src="https://github.com/user-attachments/assets/953760f1-7574-401a-843b-e9071844b5c9" />
 
 RESULT:
 
